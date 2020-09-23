@@ -1,3 +1,3 @@
 # Homework1
- A simple game <br/>
- You can do nothing but look at Unity-chan. Press Esc to exit.
+ A simple game. <br/>
+ In this game, you can look at Unity-chan, and Click(press left button of your mouse) to ask Unity-chan do some movements. Press Esc to exit.
